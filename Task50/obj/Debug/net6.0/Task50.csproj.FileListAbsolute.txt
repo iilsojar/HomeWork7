@@ -1,0 +1,15 @@
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork7/Task50/bin/Debug/net6.0/Task50
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork7/Task50/bin/Debug/net6.0/Task50.deps.json
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork7/Task50/bin/Debug/net6.0/Task50.runtimeconfig.json
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork7/Task50/bin/Debug/net6.0/Task50.dll
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork7/Task50/bin/Debug/net6.0/Task50.pdb
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork7/Task50/obj/Debug/net6.0/Task50.csproj.AssemblyReference.cache
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork7/Task50/obj/Debug/net6.0/Task50.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork7/Task50/obj/Debug/net6.0/Task50.AssemblyInfoInputs.cache
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork7/Task50/obj/Debug/net6.0/Task50.AssemblyInfo.cs
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork7/Task50/obj/Debug/net6.0/Task50.csproj.CoreCompileInputs.cache
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork7/Task50/obj/Debug/net6.0/Task50.dll
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork7/Task50/obj/Debug/net6.0/refint/Task50.dll
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork7/Task50/obj/Debug/net6.0/Task50.pdb
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork7/Task50/obj/Debug/net6.0/Task50.genruntimeconfig.cache
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork7/Task50/obj/Debug/net6.0/ref/Task50.dll
