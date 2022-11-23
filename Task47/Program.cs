@@ -5,50 +5,18 @@
 // 8 7,8 -7,1 9
 
 Console.Clear();
-// Console.Write("Введите количество строк в массиве: ");
-// int rows = int.Parse(Console.ReadLine() ?? "0") ;
-
-// Console.Write("Введите количество столбцов в массиве: ");
-// int columns = int.Parse(Console.ReadLine() ?? "0");
-
-// int[,] array = GetArray(rows, columns, -10, 10);
-// PrintArray(array);
-
-// //methods
-// int[,] GetArray(int m, int n, double min, double max)
-// {
-//     int[,] result = new int[m, n];
-//         for (int i = 0; i < m; i++)
-//         {
-//             for (int j = 0; j < n; j++)
-//             {
-//                 result[i, j] = new Random().Next(min, max + 1);
-//             }
-//         }
-//     return result;
-// }
-
-// void PrintArray(int [,] InArray)
-// {
-//         for (int i = 0; i < InArray.GetLength(0); i++)
-//         {
-//             for (int j = 0; j < InArray.GetLength(1); j++)
-//             {
-//                 Console.Write($"{InArray[i, j]} ");
-//             }
-//             Console.WriteLine();
-//         }
-// }
 
 Console.Write("введите количество строк: ");
 int rows = Convert.ToInt32(Console.ReadLine());
+
 Console.Write("введите количество столбцов: ");
 int columns = Convert.ToInt32(Console.ReadLine());
-double[,] numbers = new double[rows, columns];
-FillArrayRandom(numbers);
-PrintArray(numbers);
 
-void FillArrayRandom(double[,] array)
+double[,] arr = new double[rows, columns];
+FillArray(arr);
+PrintArray(arr);
+
+void FillArray(double[,] array)
 {
     for (int i = 0; i < array.GetLength(0); i++)
     {
